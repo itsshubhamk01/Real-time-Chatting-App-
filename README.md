@@ -63,6 +63,8 @@ Configure the build command (npm run build) and the output directory (dist).
 Deploy with one click.
 
 Can I connect a custom domain?
+
+This is Developed by Shubham Kadam
 Yes!
 
 Once deployed, you can configure a custom domain from your hosting provider’s dashboard.
