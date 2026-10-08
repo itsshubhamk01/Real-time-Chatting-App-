@@ -5,8 +5,6 @@ There are several ways to edit your application:
 To work locally on your own machine, make sure Node.js and npm are installed. You can install them using nvm.
 
 Then follow these steps:
-
-sh
 Copy
 Edit
 # Step 1: Clone the repository using the project’s Git URL.
